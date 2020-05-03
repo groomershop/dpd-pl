@@ -1,0 +1,13 @@
+{
+    "name": "dpdpoland/dpdshipping",
+    "description": "DpdPoland Dpdshipping plugin",
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "DpdPoland\\Dpdshipping\\": ""
+        }
+    }
+}
