@@ -10,7 +10,7 @@ class Shipping extends \Magento\Shipping\Model\Carrier\AbstractCarrier implement
     /**
      * @var string
      */
-    protected $_code = 'Dpdshipping';
+    protected $_code = 'dpdshipping';
 
     /**
      * @var \Magento\Shipping\Model\Rate\ResultFactory
